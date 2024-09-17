@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate/Postgraduate Proejcts"
 permalink: /teaching/project_ideas
 venue: ""
-date: 
+date: ""
 location: ""
 ---
 
