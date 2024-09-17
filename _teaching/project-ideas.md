@@ -8,7 +8,10 @@ date:
 location: ""
 ---
 
-Some potential projects:
+Potential Supervision
+======
+
+Some potential projects ideas:
 ------
 - “Automatic Speech Recognition (ASR) for low resource languages (i.e. building ASR systems with small datasets)”
 - “Testing Deep Learning Systems, in particular automatic speech recognition systems” 
