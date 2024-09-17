@@ -1,11 +1,8 @@
 ---
 title: "Project Ideas"
 collection: teaching
-type: "Undergraduate/Postgraduate Proejcts"
+type: "Undergraduate/Postgraduate Projects"
 permalink: /teaching/project_ideas
-venue: ""
-date: ""
-location: ""
 ---
 
 Potential Supervision
