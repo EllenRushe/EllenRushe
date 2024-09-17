@@ -4,11 +4,13 @@ collection: teaching
 type: "Undergraduate/Postgraduate Projects"
 permalink: /teaching/project_ideas
 date: 2024-09-09
-
+venue: "Dublin City University, School of Computing"
+date: 2024-09-09
+location: "Glasnevin"
 ---
 
 Some potential projects ideas:
-------
+=====
 - “Automatic Speech Recognition (ASR) for low resource languages (i.e. building ASR systems with small datasets)”
 - “Testing Deep Learning Systems, in particular automatic speech recognition systems” 
 - “Language technologies for Gaeilge (the Irish language)”
@@ -16,7 +18,7 @@ Some potential projects ideas:
 - “Improving depth estimates in pose estimation systems.”
 
 I am also interested in anything related to the following:
-------
+-----
 - Machine Learning for audio
 - Learning tasks with limited labels (anomaly detection, few shot learning, etc. ).
 - Time series modelling (including sensors) and computer vision tasks are also welcome. 
