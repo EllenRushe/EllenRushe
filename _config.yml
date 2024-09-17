@@ -233,7 +233,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: False
       share: true
       related: true
   # _pages
@@ -251,7 +251,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: False
   # _publications
   - scope:
       path: ""
@@ -260,7 +260,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: False
   # _portfolio
   - scope:
       path: ""
