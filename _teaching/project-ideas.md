@@ -8,6 +8,7 @@ venue: "Dublin City University, School of Computing"
 date: 2024-09-09
 location: "Glasnevin"
 ---
+This describes the type of projects that I am happy to supervise for undergraduate and postgraduate projects.  
 
 Some potential projects ideas:
 -----
