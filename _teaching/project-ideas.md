@@ -3,7 +3,7 @@ title: "Project Ideas"
 collection: teaching
 type: "Undergraduate/Postgraduate Projects"
 permalink: /teaching/project_ideas
-date: 2024-09
+date: 2024-09-09
 
 ---
 
