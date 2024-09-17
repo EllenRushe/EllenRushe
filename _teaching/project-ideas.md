@@ -7,9 +7,6 @@ date: 2024-09-017
 
 ---
 
-Potential Supervision
-======
-
 Some potential projects ideas:
 ------
 - “Automatic Speech Recognition (ASR) for low resource languages (i.e. building ASR systems with small datasets)”
@@ -19,6 +16,7 @@ Some potential projects ideas:
 - “Improving depth estimates in pose estimation systems.”
 
 I am also interested in anything related to the following:
+------
 - Machine Learning for audio
 - Learning tasks with limited labels (anomaly detection, few shot learning, etc. ).
 - Time series modelling (including sensors) and computer vision tasks are also welcome. 
