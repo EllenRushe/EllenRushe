@@ -8,14 +8,14 @@ redirect_from:
 ---
 
 Some potential projects:
-======
+------
 - “Automatic Speech Recognition (ASR) for low resource languages (i.e. building ASR systems with small datasets)”
 - “Testing Deep Learning Systems, in particular automatic speech recognition systems” 
 - “Language technologies for Gaeilge (the Irish language)”
 - “Recognising new Signs for Sign Language Recognition (SLR) systems.”
 - “Improving depth estimates in pose estimation systems.”
 
-I am also interested in anything related to the following. 
+I am also interested in anything related to the following:
 - Machine Learning for audio
 - Learning tasks with limited labels (anomaly detection, few shot learning, etc. ).
 - Time series modelling (including sensors) and computer vision tasks are also welcome. 
